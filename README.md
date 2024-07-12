@@ -44,17 +44,6 @@
   DFX • Canisters • Internet Computer Protocol (ICP) • Distributed Systems
 </p>
 
-<h2 align="center">🌱 Current Focus</h2>
-<div align="center">
-  
-  | Area | Focus |
-  |:-----|:------|
-  | **Blockchain** | ICP/Dfinity |
-  | **Language** | Advanced Rust |
-  | **Concept** | Distributed Systems |
-
-</div>
-
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
