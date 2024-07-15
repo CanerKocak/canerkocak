@@ -24,7 +24,6 @@
 
   ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Motoko](https://img.shields.io/badge/-Motoko-000000?style=flat-square&logo=dfinity&logoColor=white)
 
@@ -39,11 +38,6 @@
 </p>
 
 <h2 align="center">🤝 Connect</h2>
-
-<p align="center">
-  <a href="mailto:caner1kocak1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/canerkocak" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=canerkocak&style=flat-square&color=3B82F6" alt="Profile views" />
