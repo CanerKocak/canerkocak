@@ -37,8 +37,6 @@
   DFX • Canisters • Internet Computer Protocol (ICP) • Distributed Systems
 </p>
 
-<h2 align="center">🤝 Connect</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=canerkocak&style=flat-square&color=3B82F6" alt="Profile views" />
 </p>
