@@ -29,14 +29,6 @@
 
 </div>
 
-<h3 align="center">Also experienced with:</h3>
-<p align="center">
-  SQL • ORM (SQLAlchemy) • Web Security • OO Design • Algorithms • Unit Testing<br>
-  CI/CD • IP/UDP/TCP • Async I/O • Parsers • Transpilers • Memory Management<br>
-  REST APIs • API Testing • End-to-End Testing (Cypress) • Smart Contracts<br>
-  DFX • Canisters • Internet Computer Protocol (ICP) • Distributed Systems
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=canerkocak&style=flat-square&color=3B82F6" alt="Profile views" />
 </p>
