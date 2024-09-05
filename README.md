@@ -1,5 +1,9 @@
 
-
+<p align="center">
+  <a href="https://www.canerkocak.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-www.canerkocak.com-3B82F6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=canerkocak&theme=transparent&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6" />
 </div>
